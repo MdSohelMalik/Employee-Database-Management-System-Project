@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="EmployeeDetails/src"/>
+	<classpathentry kind="lib" path="database file &amp; others useful files/images &amp; Jar Files/jar files/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="database file &amp; others useful files/images &amp; Jar Files/jar files/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="database file &amp; others useful files/images &amp; Jar Files/jar files/rs2xml.jar"/>
+	<classpathentry kind="lib" path="database file &amp; others useful files/images &amp; Jar Files/jar files/thumbnailator-0.4.7-all.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="EmployeeDetails/build/classes"/>
+</classpath>
